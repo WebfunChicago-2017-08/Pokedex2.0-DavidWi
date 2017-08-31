@@ -1,0 +1,13 @@
+#chosen{
+    width: 100%;
+    height: 200px;
+    border: 7px solid red;
+    display: inline-block;
+}
+#chosen ul {
+    display: inline;
+    list-style-type: none;
+}
+#chosen h4{
+    display: inline;
+}
